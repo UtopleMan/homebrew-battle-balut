@@ -1,6 +1,6 @@
 cask "battle-balut" do
-  version "0.1.175"
-  sha256 "bfd07381f9d3a1e8e1ae1534058ed22253eb60f1c497fa95043d0945165fff37"
+  version "0.1.176"
+  sha256 "f2599bb59259ae020c954581de59e2a6a8e889adcc185965bd7962d89d719f02"
 
   url "https://download.battlebalut.com/BattleBalut-#{version}.dmg"
   name "Battle Balut"
